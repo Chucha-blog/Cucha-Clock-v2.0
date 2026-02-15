@@ -1,9 +1,9 @@
 # 🕐 Cucha Clock v2.0 - Профессиональный виджет часов
 
-[![Build Status](https://github.com/Chucha-blog/Cucha-Clock-v2.0/workflows/Clock2%20Build%20and%20Test/badge.svg)](https://github.com/Chucha-blog/Cucha-Clock-v2.0/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Windows%207%2F8%2F10%2F11-blue.svg)](https://www.microsoft.com/windows)
 [![Size](https://img.shields.io/badge/size-308%20KB-green.svg)](https://github.com/Chucha-blog/Cucha-Clock-v2.0/releases)
+[![CPU](https://img.shields.io/badge/CPU-%3C1%25-brightgreen.svg)](https://github.com/Chucha-blog/Cucha-Clock-v2.0)
 
 Профессиональный виджет часов для Windows с уникальной системой "Мудрых Синхро-часов" и автоматическим обновлением.
 
