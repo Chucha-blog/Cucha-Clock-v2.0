@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Windows%207%2F8%2F10%2F11-blue.svg)](https://www.microsoft.com/windows)
-[![Size](https://img.shields.io/badge/size-308%20KB-green.svg)](https://github.com/Chucha-blog/Cucha-Clock-v2.0/releases)
-[![CPU](https://img.shields.io/badge/CPU-%3C1%25-brightgreen.svg)](https://github.com/Chucha-blog/Cucha-Clock-v2.0)
+[![Size](https://img.shields.io/badge/size-336%20KB-green.svg)](https://github.com/Chucha-blog/Cucha-Clock-v2.0/releases)
+[![CPU](https://img.shields.io/badge/CPU-%3C2%25-brightgreen.svg)](https://github.com/Chucha-blog/Cucha-Clock-v2.0)
 
 Профессиональный виджет часов для Windows с уникальной системой "Мудрых Синхро-часов" и автоматическим обновлением.
 
@@ -54,9 +54,9 @@
 
 | Параметр | Значение | Сравнение |
 |----------|----------|----------|
-| **Размер файла** | 308 КБ | **В 487 раз меньше** Windows UWP Clock (150 МБ) |
+| **Размер файла** | 336 КБ | **В 446 раз меньше** Windows UWP Clock (150 МБ) |
 | **Потребление RAM** | 5-8 МБ | **В 6-10 раз меньше** аналогов |
-| **Нагрузка CPU** | <1% | Оптимизированная отрисовка |
+| **Нагрузка CPU** | <2% | Оптимизированная отрисовка |
 | **Платформа** | Windows 7/8/10/11 | Полная совместимость |
 | **Технология** | C++ + GDI+ | Нативная производительность |
 | **Архитектура** | Модульная (11 модулей) | Четкое разделение |
@@ -135,7 +135,7 @@ clock2/
 - Двойная буферизация без мерцания
 - Оптимизированная отрисовка GDI+
 - Минимальное потребление ресурсов
-- <1% нагрузка CPU
+- <2% нагрузка CPU
 
 ---
 
